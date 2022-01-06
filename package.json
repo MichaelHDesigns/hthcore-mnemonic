@@ -1,8 +1,8 @@
 {
-  "name": "@npccoin/npccoincore-mnemonic",
+  "name": "hthcore-mnemonic",
   "version": "1.6.1",
-  "description": "BIP39 Mnemonics for NPCcoincore",
-  "author": "NPCcoin Core developers. <npccoin@gmail.com>",
+  "description": "BIP39 Mnemonics for HTH Core",
+  "author": "HTH Core developers. <hthcoin@gmail.com>",
   "main": "index.js",
   "scripts": {
     "lint": "eslint .",
@@ -25,7 +25,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/npccoin/npccoincore-mnemonic.git"
+    "url": "https://github.com/MichaelHDesigns/hthcore-mnemonic.git"
   },
   "keywords": [
     "npccoin",
@@ -49,6 +49,6 @@
     "webpack-cli": "^3.1.2"
   },
   "dependencies": {
-    "npccoincore-lib": "^0.18.0"
+    "hthcore-lib": "^0.18.0"
   }
 }
