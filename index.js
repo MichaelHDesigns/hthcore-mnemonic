@@ -1,3 +1,3 @@
-const npccoincore = require('@npccoin/npccoincore-lib');
+const hthcore = require('hthcore-lib');
 
-module.exports = npccoincore.Mnemonic;
+module.exports = hthcore.Mnemonic;
