@@ -4,8 +4,8 @@ module.exports = {
   mode: 'production',
   entry: './index.js',
   output: {
-    library: 'npccoincoreMnemonic',
+    library: 'hthcoreMnemonic',
     path: path.resolve(__dirname, 'dist'),
-    filename: 'npccoincore-mnemonic.js'
+    filename: 'hthcore-mnemonic.js'
   }
 };
