@@ -49,6 +49,6 @@
     "webpack-cli": "^3.1.2"
   },
   "dependencies": {
-    "hthcore-lib": "^0.18.0"
+    "hthcore-lib": "^0.18.4"
   }
 }
