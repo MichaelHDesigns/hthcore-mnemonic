@@ -1,3 +1,3 @@
-const hthcore = require('hthcore-lib');
+const bitcore = require('bitcore-lib');
 
-module.exports = hthcore.Mnemonic;
+module.exports = bitcore.Mnemonic;
