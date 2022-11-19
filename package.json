@@ -1,5 +1,5 @@
 {
-  "name": "hthcore-mnemonic",
+  "name": "bitcore-mnemonic",
   "version": "1.6.1",
   "description": "BIP39 Mnemonics for HTH Core",
   "author": "HTH Core developers. <hthcoin@gmail.com>",
@@ -25,7 +25,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/MichaelHDesigns/hthcore-mnemonic.git"
+    "url": "https://github.com/MichaelHDesigns/bitcore-mnemonic.git"
   },
   "keywords": [
     "npccoin",
@@ -49,6 +49,6 @@
     "webpack-cli": "^3.1.2"
   },
   "dependencies": {
-    "hthcore-lib": "^0.18.4"
+    "bitcore-lib": "https://github.com/MichaelHDesigns/umbrucore-lib.git"
   }
 }
