@@ -4,8 +4,8 @@ module.exports = {
   mode: 'production',
   entry: './index.js',
   output: {
-    library: 'hthcoreMnemonic',
+    library: 'bitcoreMnemonic',
     path: path.resolve(__dirname, 'dist'),
-    filename: 'hthcore-mnemonic.js'
+    filename: 'bitcore-mnemonic.js'
   }
 };
